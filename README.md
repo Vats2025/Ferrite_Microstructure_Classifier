@@ -89,7 +89,7 @@ Files required:
 
 **Khushboo Vats**  
 B.Tech Metallurgical & Materials Engineering, VNIT Nagpur  
-[LinkedIn](https://www.linkedin.com/in/khushboo-vats-593882249/) · [GitHub](https://github.com/Vats2025)
+(https://www.linkedin.com/in/khushboo-vats-593882249/) · (https://github.com/Vats2025)
 ```
 
 ---
