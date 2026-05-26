@@ -1,5 +1,3 @@
-Here's a clean README for your repo:
-
 ---
 
 ```markdown
