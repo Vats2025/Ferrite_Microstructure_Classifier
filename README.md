@@ -1,7 +1,7 @@
 
 # Ferrite Microstructure Classifier (FerriteScope)
 
-A machine learning pipeline for automated classification of ferrite microstructures into three recrystallisation states — **Recrystallised**, **Partially Recrystallised**, and **Deformed** — using HOG features, ensemble ML models, and CNN-based Grad-CAM visualization.
+A machine learning pipeline for automated classification of ferrite microstructures into three recrystallisation states  **Recrystallised**, **Partially Recrystallised**, and **Deformed**  using HOG features, ensemble ML models, and CNN-based Grad-CAM visualization.
 
 ---
 
